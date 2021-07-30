@@ -11,8 +11,8 @@ ignoreErrors = ["error-remote-getjson"]
   [Params.Terminal]
   # Note: color schema
   # Note: You can choose between
-  # Note: ["monokai", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "retro"]
-  schema = "monokai"
+  # Note: ["retro", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "retro"]
+  schema = "retro"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
