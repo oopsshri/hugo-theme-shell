@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
-  # [userName]@[pcName]:~/[workDir]$ c [profile]
+  # [userName]@[pcName]:~/[workDir]$ cat [profile]
   #
   # [description]
   #
